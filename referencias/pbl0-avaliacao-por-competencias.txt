@@ -1,0 +1,86 @@
+﻿Centro Universitário Senac-RS
+ADS - Análise e Desenvolvimento de Sistemas / SPI - Sistemas para Internet
+Unidade Curricular: Qualidade de Software 
+Prof.: Luciano Zanuz 
+	Avaliação por Competências — Metodologia PBL
+1. Como será a avaliação na disciplina
+A avaliação das competências na disciplina será realizada por meio da metodologia PBL (Problem-Based Learning — Aprendizagem Baseada em Problemas).
+Nesse modelo, o aprendizado ocorre a partir da análise e resolução de problemas contextualizados com situações reais da área profissional.
+Em vez de avaliações concentradas apenas em provas, os estudantes desenvolverão atividades práticas alinhadas aos conteúdos estudados ao longo do semestre.
+2. Dinâmica das atividades
+* Haverá atividades em todas ou na maioria das aulas.
+* Cada atividade estará diretamente relacionada ao conteúdo abordado na respectiva aula.
+* As tarefas compõem um processo contínuo de desenvolvimento das competências previstas na disciplina.
+3. Formato de realização
+As atividades poderão ser realizadas:
+* Individualmente, ou
+* Em grupos de até 4 integrantes
+A definição do formato poderá variar conforme a natureza da atividade, a critério do professor.
+4. Entregas
+* As atividades terão momentos de entregas parciais e finais.
+* O cronograma de entregas será informado pelo professor ao longo do semestre.
+* É responsabilidade dos estudantes acompanhar os prazos divulgados em aula e nos canais oficiais da disciplina.
+5. Registro e organização dos trabalhos
+Todos os trabalhos deverão ser armazenados em um repositório no GitHub.
+O repositório funcionará como:
+* Portfólio de aprendizagem
+* Registro de evolução do projeto
+* Evidência das competências desenvolvidas
+* Base para avaliação
+Cada estudante ou grupo deverá manter seu repositório organizado e atualizado.
+Modelo de Projeto no GitHub
+Abaixo está um modelo de estrutura recomendada para organização do repositório.
+📁 Estrutura de Pastas
+projeto-qualidade-software/
+│
+├── README.md
+├── docs/
+│   ├── atividade-01/
+│   ├── atividade-02/
+│   ├── atividade-03/
+│   └── entregas-finais/
+│
+├── artefatos/
+│   ├── diagramas/
+│   ├── relatorios/
+│   └── evidencias/
+│
+├── src/ (se houver implementação)
+│
+└── referencias/
+📝 Modelo de README.md
+# Projeto — Qualidade de Software
+
+
+## 👥 Integrantes
+- Nome Completo — Matrícula
+- Nome Completo — Matrícula
+- Nome Completo — Matrícula
+- Nome Completo — Matrícula
+
+
+## 🎯 Objetivo do Repositório
+Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade de Software, realizadas por meio da metodologia PBL.
+
+
+## 📚 Organização
+- `docs/` → Atividades realizadas ao longo das aulas
+- `artefatos/` → Diagramas, relatórios e evidências
+- `src/` → Código-fonte (quando aplicável)
+- `referencias/` → Materiais de apoio e bibliografia
+
+
+## 📦 Entregas
+As entregas parciais e finais estão organizadas por atividade na pasta `docs/`.
+
+
+## 🧩 Metodologia
+Aprendizagem Baseada em Problemas (PBL), com foco no desenvolvimento de competências em qualidade de software.
+✅ Boas práticas esperadas
+* Commits frequentes
+* Mensagens de commit descritivas
+* Organização clara das pastas
+* Versionamento dos artefatos
+* Atualização contínua do README
+⚠️ Importante
+O repositório poderá ser utilizado como instrumento de avaliação das competências desenvolvidas ao longo da disciplina.
