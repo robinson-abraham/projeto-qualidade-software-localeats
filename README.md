@@ -50,4 +50,4 @@ Evidencia consolidada: `artefatos/evidencias/pytest-completo.log`.
 
 ## Link do repositorio
 
-Preencher aqui apos publicar no GitHub.
+https://github.com/robinson-abraham/projeto-qualidade-software-localeats
